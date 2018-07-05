@@ -16,7 +16,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://samundrak.github.io/doxpress-doxpress-redux-demo",
+  "homepage": "https://samundrak.github.io/domex-domex-redux-demo",
   "devDependencies": {
     "gh-pages": "^1.2.0",
     "jest": "^23.1.0"
